@@ -57,7 +57,7 @@
 		2E84F93126F1E6100026951C /* iOSAsnychronous */ = {
 			isa = PBXGroup;
 			children = (
-				2E84F94626F1E62F0026951C /* 1.AsyncVsSync.playground */,
+				2E84F94726F1E6F90026951C /* Playgrounds */,
 				2E84F93226F1E6100026951C /* AppDelegate.swift */,
 				2E84F93426F1E6100026951C /* SceneDelegate.swift */,
 				2E84F93626F1E6100026951C /* ViewController.swift */,
@@ -67,6 +67,14 @@
 				2E84F94026F1E6110026951C /* Info.plist */,
 			);
 			path = iOSAsnychronous;
+			sourceTree = "<group>";
+		};
+		2E84F94726F1E6F90026951C /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				2E84F94626F1E62F0026951C /* 1.AsyncVsSync.playground */,
+			);
+			path = Playgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
