@@ -41,7 +41,6 @@
 		2E84F92626F1E6100026951C = {
 			isa = PBXGroup;
 			children = (
-				2E84F94626F1E62F0026951C /* 1.AsyncVsSync.playground */,
 				2E84F93126F1E6100026951C /* iOSAsnychronous */,
 				2E84F93026F1E6100026951C /* Products */,
 			);
@@ -58,6 +57,7 @@
 		2E84F93126F1E6100026951C /* iOSAsnychronous */ = {
 			isa = PBXGroup;
 			children = (
+				2E84F94626F1E62F0026951C /* 1.AsyncVsSync.playground */,
 				2E84F93226F1E6100026951C /* AppDelegate.swift */,
 				2E84F93426F1E6100026951C /* SceneDelegate.swift */,
 				2E84F93626F1E6100026951C /* ViewController.swift */,
